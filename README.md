@@ -15,31 +15,31 @@
   
 <h2> Stack </h2>
 
-<h4> languages </h4>
+<h5> languages </h5>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,php" />
 </a>
 
   
- <h4> currently learning </h4>
+ <h5> currently learning </h5>
  <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,rust" />
   <img class="ml-2" width="50" src="https://i.imgur.com/Y8DGXrj.png" />
  </a>
   
-<h4> frameworks & libraries </h4>
+<h5> frameworks & libraries </h5>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=fastapi,laravel,vue,nodejs" />
+  <img src="https://skillicons.dev/icons?i=fastapi,laravel,vue,nodejs,pytorch" />
 </a>
 
-<h4> tools </h4>
+<h5> tools and others </h5>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git" />
   <img width="50" style="border: solid 2px #FF2288;　border-radius: 30px;" src="https://i.imgur.com/v3EcXEk.png" />
-  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=docker,mysql,mongodb" />
 </a>
   
-<h4> infra </h4>
+<h5> infra </h5>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=aws,azure" />
 </a>
