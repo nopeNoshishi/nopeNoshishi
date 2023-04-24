@@ -17,13 +17,13 @@
 
 <h5> languages </h5>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,php&theme=light" />
+  <img src="https://skillicons.dev/icons?i=py,php,js&theme=light" />
 </a>
 
   
  <h5> currently learning </h5>
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,rust&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,react,rust,actix&theme=light" />
   <img class="ml-2" width="50" src="https://i.imgur.com/Y8DGXrj.png" />
  </a>
   
