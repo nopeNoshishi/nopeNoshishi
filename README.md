@@ -44,3 +44,6 @@
   <img src="https://skillicons.dev/icons?i=aws,azure&theme=light" />
 </a>
   
+![Noshishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nopeNoshishi&show_icons=true&theme=vue&rank_icon=github) 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nopeNoshishi&layout=donut&hide=jupyter%20notebook,css)](https://github.com/anuraghazra/github-readme-stats)
